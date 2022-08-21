@@ -1,0 +1,10 @@
+th{
+    color: rgba(48,148,224,255);
+    font-size: 25px;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    text-decoration: underline,dotted ;
+    text-shadow: 2px 2px 2px rgb(202, 196, 196);
+}
+td{
+    color: rgba(87,87,87,255);
+}
